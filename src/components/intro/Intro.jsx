@@ -52,11 +52,11 @@ const Intro = () => {
         <div className="project__work">
           <div className="project__work__item">
             <img src={Work1} alt="Project" />
-            <a href="https://waaw-tube.herokuapp.com/" className="btn-light">
+            <a href="https://616976297031acd8eba60f89--waaw-portfolio.netlify.app" className="btn-light">
               <i className="fas fa-eye"></i>Project
             </a>
             <a
-              href="https://github.com/GodfreySam/waaw-reactjs-portfolio"
+              href="https://github.com/Chiedozie22/waaw-portfolio"
               className="btn-dark"
             >
               <i className="fab fa-github"></i>Github
