@@ -166,12 +166,7 @@ const Intro = () => {
                 name="message"
               ></textarea>
             </div>
-            <div className="contact-form__item">
-              <div
-                className="g-recaptcha"
-                data-sitekey="6Ldj2lsbAAAAAD5NXrObnRX3ElSvKiDtq15skBvx"
-              ></div>
-            </div>
+            
             <button type="submit" className="">
               Send
             </button>
